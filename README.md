@@ -1,0 +1,2 @@
+# ThreeLayerWeaveGenerator
+This code automatically generates bitmap weaving files for a TC2 for 3-layered weaves that have one set of pockets between the top and middle layers, and another between the middle and last layers. If you import images representing regions of pockets (between top and middle), tunnels (between middle and bottom), openings (vertical oriented slits in top pockets), and texture (the stitch patterns that are overlaid across the entire file) it will generate a bitmap for weaving on a TC2
